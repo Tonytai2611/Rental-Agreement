@@ -1,0 +1,16 @@
+RA001,2024-11-29,O1,T1,T1;,CommercialProperty;CP1;Ben Tre;12.0;AVAILABLE;Office;1;1.0,H1;,DAILY,12,no,100000.0,NEW
+RA002,2024-04-29,O2,T2,T1;T2;,ResidentialProperty;RP2;Go Vap;200000.0;AVAILABLE;2;true;true,H1;H2;,WEEKLY,12,no,999999.0,ACTIVE
+RA003,2024-05-29,O3,T3,T1;T2;T3;,CommercialProperty;CP3;Go Vap;9.0E9;AVAILABLE;Office;10;100.0,H1;H2;H3;,FORTNIGHTLY,12,NO,230000.0,COMPLETED
+RA004,2024-07-30,O12,T12,T2;T1;,ResidentialProperty;RP1;BanDon;123456.0;RENTED;12;true;false,H1;,DAILY,12,No pets allowed on the property,200000.0,NEW
+RA005,2024-11-12,O3,T2,T1;T6;T7;,CommercialProperty;CP1;Ben Tre;12.0;AVAILABLE;Office;1;1.0,H1;H4;,WEEKLY,15,Smoking is strictly prohibited inside the premises,400000.0,ACTIVE
+RA006,2024-01-30,O7,T4,T5;T7;T9;,ResidentialProperty;RP4;Ha Noi;450000.0;RENTED;8;true;false,H1;H5;,MONTHLY,3,Rent must be paid by the 5th of each month,400000.0,COMPLETED
+RA007,2024-10-30,O12,T5,T7;T8;T9;T11;,CommercialProperty;CP4;Ha Noi;3.5E7;RENTED;Office;5;50.0,H12;H13;,YEARLY,5,Late rent payments will incur a penalty of 5% per day,5.0E7,NEW
+RA008,2024-11-26,O2,T12,T1;T2;T3;T6;T9;,ResidentialProperty;RP13;Quang Nam;370000.0;AVAILABLE;1;true;true,H12;H5;,MONTHLY,8,No loud music or noise between 10:00 PM and 7:00 AM,400000.0,ACTIVE
+RA009,2024-06-22,O14,T15,T4;T2;T12;,CommercialProperty;CP13;Bac Giang;9.8E7;RENTED;Retail;5;95.0,H1;H2;H3;H4;,DAILY,4,Parking is limited to one vehicle per tenant,3333333.0,NEW
+RA010,2024-11-30,O11,T2,T3;T4;,CommercialProperty;CP12;Thanh Hoa;4.5E8;AVAILABLE;Office;7;110.0,H12;,DAILY,9,Guests staying for more than 7 days require prior approval from the owner,4.0E8,NEW
+RA011,2024-11-29,O10,T11,T12;T13;T15;,ResidentialProperty;RP12;Dong Nai;540000.0;RENTED;11;true;false,H1;H7;,DAILY,6,The tenant is responsible for all utility bills including water and electricity,3000000.0,ACTIVE
+RA012,2024-02-13,O10,T13,T1;T5;T7;T8;T9;,ResidentialProperty;RP12;Dong Nai;540000.0;RENTED;11;true;false,H12;H14;,WEEKLY,8,A security deposit of two months’rent is required,5000000.0,ACTIVE
+RA013,2024-03-30,O12,T14,T1;T10;,ResidentialProperty;RP2;Go Vap;200000.0;AVAILABLE;2;true;true,H10;,DAILY,9,All trash must be disposed of in designated areas,130000.0,ACTIVE
+RA014,2024-09-30,O12,T7,T10;T13;,ResidentialProperty;RP5;Can Tho;600000.0;AVAILABLE;4;true;true,H5;,YEARLY,12,The tenant is required to purchase renter's insurance,1000000.0,ACTIVE
+RA015,2024-11-30,O14,T12,T4;T6;T7;T9;T10;T12;,CommercialProperty;CP12;Thanh Hoa;4.5E8;AVAILABLE;Office;7;110.0,H12;H13;,MONTHLY,11,All repairs under $100 are the responsibility of the tenant,5000000.0,NEW
+RA016,2024-12-01,O12,T1,T4;T5;,ResidentialProperty;RP2;Go Vap;200000.0;AVAILABLE;2;true;true,H1;,DAILY,4,Do not go out after 10pm,40000.0,ACTIVE
